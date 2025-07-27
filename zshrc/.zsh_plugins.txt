@@ -1,0 +1,14 @@
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting kind:defer
+zdharma/fast-syntax-highlighting kind:defer
+#marlonrichert/zsh-autocomplete
+
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:lib
+ohmyzsh/ohmyzsh path:plugins/extract
+ohmyzsh/ohmyzsh path:plugins/gitfast
+
+unixorn/fzf-zsh-plugin
+
+z-shell/zsh-eza
+z-shell/zsh-zoxide

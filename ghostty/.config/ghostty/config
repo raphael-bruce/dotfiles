@@ -1,0 +1,9 @@
+font-family = "MesloLGS NF"
+theme = catppuccin-mocha
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+background-opacity = 0.95
+background-blur = 15
+gtk-titlebar = false
+bold-is-bright = true
