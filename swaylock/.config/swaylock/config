@@ -1,0 +1,68 @@
+# Swaylock configuration file
+# Save this as ~/.config/swaylock/config
+
+# Tokyo Night colors
+color=1a1b26
+
+# Ring colors
+ring-color=414868
+ring-clear-color=e0af68
+ring-caps-lock-color=f7768e
+ring-ver-color=7aa2f7
+ring-wrong-color=f7768e
+
+# Inside colors
+inside-color=1a1b26
+inside-clear-color=1a1b26
+inside-caps-lock-color=1a1b26
+inside-ver-color=1a1b26
+inside-wrong-color=1a1b26
+
+# Key highlight colors
+key-hl-color=bb9af7
+
+# Backspace key colors
+bs-hl-color=f7768e
+
+# Line colors (between ring and inside)
+line-color=1a1b26
+line-clear-color=1a1b26
+line-caps-lock-color=1a1b26
+line-ver-color=1a1b26
+line-wrong-color=1a1b26
+
+# Text colors
+text-color=c0caf5
+text-clear-color=1a1b26
+text-caps-lock-color=c0caf5
+text-ver-color=1a1b26
+text-wrong-color=1a1b26
+
+# Separator color
+separator-color=414868
+
+# Layout and appearance
+show-failed-attempts
+daemonize
+ignore-empty-password
+show-keyboard-layout
+indicator-caps-lock
+
+# Font
+font="JetBrains Mono"
+font-size=16
+
+# Indicator settings
+indicator-radius=100
+indicator-thickness=10
+
+# Effects (if you have swaylock-effects)
+screenshots
+effect-blur=7x5
+effect-vignette=0.5:0.5
+clock
+timestr=%H:%M
+datestr=%A, %B %d
+
+# Fade in time
+fade-in=0.2

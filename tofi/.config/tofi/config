@@ -1,0 +1,16 @@
+# Tofi launcher configuration
+font = "FiraCode Nerd Font"
+font-size = 16
+background-color = #1e1e2e
+text-color = #cdd6f4
+selection-color = #f5e0dc
+selection-background = #313244
+border-width = 2
+border-color = #89b4fa
+corner-radius = 10
+width = 700
+height = 500
+result-spacing = 15
+num-results = 10
+prompt-text = " Run: "
+placeholder-text = " Type to search..."
